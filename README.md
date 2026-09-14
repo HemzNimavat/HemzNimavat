@@ -1,28 +1,99 @@
-# 💫 About Me:
-I'm a Masters student, my major of masters is AI.<br>I'm currently learning about Agentic AIs.<br>Here I'm posting all my academic projects and internship projects as well.<br>My interest area is Artificial Intelligence Automations and Machine Learning.
+# Hi there, I'm Hemadri Nimavat 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemadrinimavat) [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/hnsoft)
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HemzNimavat&theme=rose&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HemzNimavat&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HemzNimavat&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HemzNimavat&theme=rose&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HemzNimavat&limit=5&theme=rose&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+AI+Specialist;Passionate+about+Machine+Learning;Building+Intelligent+Systems;Always+Learning+%26+Growing" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HemzNimavat&icon=0&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@hemunimavat30) 
+### 🚀 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 Final-year **MCA student** specializing in **Artificial Intelligence** at **Parul University**
+- 📍 Based in **Vadodara, Gujarat**
+- 💡 Passionate about **Machine Learning**, **Generative AI**, and building practical intelligent systems
+- 🌱 Currently deepening my knowledge in **AI/ML fundamentals**, **NLP**, and **Generative AI**
+- 🛠️ Love turning ideas into working projects
+- ⚡ Fun fact: I actively participate in workshops, seminars & hackathons to grow beyond the classroom
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hemadrinimavat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/HemzNimavat" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**AI / Machine Learning**  
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-00D4FF?style=for-the-badge&logo=ai&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-A855F7?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4ECDC4?style=for-the-badge)
+
+**Libraries & Tools**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **Alumni Management Website** | Full-stack platform to connect current students with alumni + college updates & events | PHP, HTML, CSS, JS, MySQL | [Repo](https://github.com/HemzNimavat/DigitalAlumni) |
+| **Space Wars Game** | Single-player space shooting game with engaging storyline (BCA Final Project) | Python | [Repo](https://github.com/HemzNimavat/SpaceWarsGame) |
+| **Professional Portfolio** | Modern personal portfolio website | HTML, CSS | [Live](https://hemznimavat.github.io/nimavatvisuals.github.io) • [Repo](https://github.com/HemzNimavat/nimavatvisuals.github.io) |
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🥇 **AWS AI Practitioner (FSP)** — Gold Certification (90%)  
+  Covered: Python, AI/ML, Generative AI, AWS AI Services, Cloud Computing & Responsible AI
+- 🏅 **Accenture Go for Gold Contest** — Successfully cleared the selection process
+- 🚀 **Vadodara Hackathon 6.0** — Participant
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HemzNimavat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=A855F7" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemzNimavat&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=A855F7&currStreakLabel=00D4FF" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemzNimavat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF" height="170"/>
+</p>
+
+---
+<p align="center">
+  ⭐️ From <a href="https://github.com/HemzNimavat">Hemadri Nimavat</a>
+</p>
