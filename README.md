@@ -5,6 +5,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HemzNimavat&color=00d4ff&style=for-the-badge&label=Profile+Views" />
+</p>
+---
 
 ### 🚀 About Me
 
