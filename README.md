@@ -84,14 +84,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HemzNimavat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=A855F7" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemzNimavat&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=A855F7&currStreakLabel=00D4FF" height="170"/>
-</p>
+![Hemadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=HemzNimavat&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemzNimavat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF" height="170"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HemzNimavat&layout=compact&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HemzNimavat&theme=dark)](https://git.io/streak-stats)
 
 ---
 <p align="center">
