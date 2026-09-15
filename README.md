@@ -70,8 +70,15 @@
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| **Alumni Management Website** | Full-stack platform to connect current students with alumni + college updates & events | PHP, HTML, CSS, JS, MySQL | [Repo](https://github.com/HemzNimavat/DigitalAlumni) |
-| **Space Wars Game** | Single-player space shooting game with engaging storyline (BCA Final Project) | Python | [Repo](https://github.com/HemzNimavat/SpaceWarsGame) |
+### 📂 Featured Projects
+
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **Network-IDS** 🔥 | AI-based Intrusion Detection System on CIC-IDS2017. RF, XGBoost & MLP models + Next.js live demo web app | Python, Scikit-learn, Next.js | [ML Repo](https://github.com/HemzNimavat/Network-IDS) • [Web App](https://github.com/HemzNimavat/Network-IDS-Web-App) |
+| **Fake News Detector** | AI-powered web app that detects fake news using Machine Learning & NLP | Python, ML, NLP | [Repo](https://github.com/HemzNimavat/Fake-News-Detector) • [Live](https://v0-truthguard-fake-news-detector.vercel.app/) |
+| **Alumni Management** | Full-stack platform to connect current students with alumni + college updates | PHP, MySQL, JS | [Repo](https://github.com/HemzNimavat/DigitalAlumni) |
+| **Space Wars Game** | Single-player space shooting game with increasing difficulty | Python | [Repo](https://github.com/HemzNimavat/SpaceWarsGame) |
+| **Personal Portfolio** | Modern client portfolio website | HTML, CSS, JS | [Repo](https://github.com/HemzNimavat/MehtaDarpit.github.io) • [Live](https://mehtadarpit.netlify.app/) |
 | **Professional Portfolio** | Modern personal portfolio website | HTML, CSS | [Live](https://hemznimavat.github.io/nimavatvisuals.github.io) • [Repo](https://github.com/HemzNimavat/nimavatvisuals.github.io) |
 
 ---
