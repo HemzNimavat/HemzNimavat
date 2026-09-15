@@ -79,7 +79,7 @@
 | **Alumni Management** | Full-stack platform to connect current students with alumni + college updates | PHP, MySQL, JS | [Repo](https://github.com/HemzNimavat/DigitalAlumni) |
 | **Space Wars Game** | Single-player space shooting game with increasing difficulty | Python | [Repo](https://github.com/HemzNimavat/SpaceWarsGame) |
 | **Personal Portfolio** | Modern client portfolio website | HTML, CSS, JS | [Repo](https://github.com/HemzNimavat/MehtaDarpit.github.io) • [Live](https://mehtadarpit.netlify.app/) |
-| **Professional Portfolio** | Modern personal portfolio website | HTML, CSS | [Live](https://hemznimavat.github.io/nimavatvisuals.github.io) • [Repo](https://github.com/HemzNimavat/nimavatvisuals.github.io) |
+| **Professional Portfolio** | Modern personal portfolio website | HTML, CSS | [Repo](https://github.com/HemzNimavat/nimavatvisuals.github.io) • [Live](https://hemznimavat.github.io/nimavatvisuals.github.io) |
 
 ---
 
